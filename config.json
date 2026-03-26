@@ -5,13 +5,17 @@
     "url": "http://www.amazon.com/gp/mas/dl/android?asin=B0GGDS7G4W&showAll=1"
   },
   "promo1": {
-    "asin": "B123456789",
+    "asin": "B0G88319LY",
     "p": "",
-    "img": "https://رابط-صورتك-الأولى-هنا.com/image1.jpg"
+    "url": "http://www.amazon.com/gp/mas/dl/android?asin=B0G88319LY&showAll=1",
+    "img": "https://raw.githubusercontent.com/FireTvGamez/RelaxPic/refs/heads/main/screen1.png"
   },
   "promo2": {
-    "asin": "B987654321",
+    "asin": "B0GPHTWFR4",
     "p": "",
-    "img": "https://رابط-صورتك-الثانية-هنا.com/image2.jpg"
+    "url": "http://www.amazon.com/gp/mas/dl/android?asin=B0GPHTWFR4&showAll=1",
+    "img": "https://raw.githubusercontent.com/FireTvGamez/RelaxPic/refs/heads/main/screen2.png"
   }
 }
+
+
