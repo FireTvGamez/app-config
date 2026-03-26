@@ -1,7 +1,17 @@
 {
   "moreApps": {
     "asin": "B0GGDS7G4W",
-    "p": ""
+    "p": "",
+    "url": "http://www.amazon.com/gp/mas/dl/android?asin=B0GGDS7G4W&showAll=1"
+  },
+  "promo1": {
+    "asin": "B123456789",
+    "p": "",
+    "img": "https://رابط-صورتك-الأولى-هنا.com/image1.jpg"
+  },
+  "promo2": {
+    "asin": "B987654321",
+    "p": "",
+    "img": "https://رابط-صورتك-الثانية-هنا.com/image2.jpg"
   }
 }
-
